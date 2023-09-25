@@ -1,6 +1,6 @@
 package org.example;
 
-public class CreditCard {
+public class CreditCard extends Card{
     private String cardNumber;
     private String expiryDate;
     private int securityNumber;

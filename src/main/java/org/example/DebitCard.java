@@ -1,6 +1,6 @@
 package org.example;
 
-public class DebitCard {
+public class DebitCard extends Card{
     private String cardNumber;
     private int sortCode;
     private int accountNumber;

@@ -1,6 +1,6 @@
 package org.example;
 
-public class Ticket {
+public class Ticket extends Card{
     private String bookingRef;
     private String qrCode;
     private String date;

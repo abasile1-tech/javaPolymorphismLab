@@ -1,6 +1,6 @@
 package org.example;
 
-public class LoyaltyCard {
+public class LoyaltyCard extends Card{
     private String barCode;
     private String vendor;
 
